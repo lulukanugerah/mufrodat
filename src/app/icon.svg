@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="18" fill="#ffd96a"/>
+  <path d="M14 14h27a9 9 0 0 1 9 9v27H23a9 9 0 0 1-9-9V14Z" fill="#fff9e8" stroke="#e7b84b" stroke-width="2"/>
+  <path d="M23 14v36" stroke="#e7b84b" stroke-width="2"/>
+  <text x="36" y="41" text-anchor="middle" font-size="28" font-family="serif" font-weight="bold" fill="#587f6f">م</text>
+</svg>
